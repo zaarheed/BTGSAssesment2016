@@ -5,7 +5,7 @@
 
 I have submitted my application through GitHub so the assessor can see the progress I have made in my code, and so that they can see how I may have initially approached the problem. In addition, the commits prior to submission contain debugging code which the assessor may want to use to test my code, or really get down-n-dirty with how my brains works!
 
-A read, as requested, follows…
+A ReadMe, as requested, follows…
 
 
 ### README
