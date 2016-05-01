@@ -1,7 +1,8 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Name: BTGSAssesment2016
+ * Description: BT Graduate Scheme Coding Test 2015/16
+ * Author: Zahid Mahmood
+ * Author URL: http://www.zahidmahmood.co.uk
  */
 package btassesment;
 
@@ -28,7 +29,7 @@ public class Package {
         dependency.add(inputDependency);
     }
     
-    public ArrayList getDependencies() {
+    public ArrayList<Package> getDependencies() {
         return dependency;
     }
 }
